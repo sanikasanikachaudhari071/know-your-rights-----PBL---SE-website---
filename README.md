@@ -7,3 +7,6 @@ This website is made so that a person doesn't need to hunt down the internet for
 I hope you will like the website .
 
 ###----PLEASE OPEN THE INDEX.PHP FILE IS THE MAIN-----###.
+
+
+you have to create a database in mysql or any other db for it to work
